@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Luiz Guilherme Ventura Nunes</title>
+    <title>Portifólio de Luiz Guilherme Ventura Nunes</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
